@@ -48,3 +48,6 @@ Watches Less files and automatically compiling them when they're changed.
 ## License
 
 MIT &copy; [ws1 team](https://github.com/ws1)
+
+
+################### MIT #########################################
